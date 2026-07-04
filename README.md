@@ -1,6 +1,6 @@
 # Bank Loan Analytics Dashboard
 ## Project Overview
-This project is an interactive Power BI dashboard developed to analyze bank loan performance and provide valuable business insights. The dashboard helps stakeholders monitor loan applications, funded amounts, repayments, loan quality, and customer behavior for better decision-making.
+This project is an interactive Power BI report developed to analyze bank loan performance and provide valuable business insights. The report helps stakeholders monitor loan applications, funded amounts, repayments, loan quality, and customer behavior for better decision-making.
 
 ---
 # Dashboard Preview
@@ -68,7 +68,7 @@ This page provides detailed business insights.
 - Loan Applications by Purpose (Treemap)
 ---
 # Key Insights
-- Good Loans account for over **86%** of total loan applications.
+- Good Loans account for over **83%** of total loan applications.
 - Fully Paid loans contribute the highest funded and received amounts.
 - Loan applications show a steady increase throughout the year.
 - Debt Consolidation is the most common loan purpose.
