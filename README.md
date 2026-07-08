@@ -5,11 +5,11 @@ This project is an interactive Power BI report developed to analyze bank loan pe
 ---
 # Dashboard Preview
 ## Dashboard
-![Dashboard](dashboard-page.png)
+![Dashboard](dashboard-page.png.png)
 
 ---
 ## Overview
-![Overview](overview-page.png)
+![Overview](overview-page.png.png)
 
 ---
 ## Objectives
