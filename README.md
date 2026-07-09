@@ -68,7 +68,7 @@ This page provides detailed business insights.
 - Loan Applications by Purpose (Treemap)
 ---
 # Key Insights
-- Good Loans account for over **83%** of total loan applications.
+- Good Loans account for over **86%** of total loan applications.
 - Fully Paid loans contribute the highest funded and received amounts.
 - Loan applications show a steady increase throughout the year.
 - Debt Consolidation is the most common loan purpose.
